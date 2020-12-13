@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://australi.web.app"
 title = "Trending Now"
 languageCode = "en-us"
 paginate = "15" # Number of posts per page
