@@ -1,0 +1,13 @@
+{
+  "hosting": [
+ {
+"site": "australi",
+"public": "public",
+"ignore": [
+"firebase.json",
+"**/.*",
+"**/node_modules/**"
+]
+} 
+]
+}
